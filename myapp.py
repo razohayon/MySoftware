@@ -1,1 +1,4 @@
-some greate methods
+#some greate methods
+
+def click():
+    print("Click")

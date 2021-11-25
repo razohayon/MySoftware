@@ -1,3 +1,5 @@
-some greate methods
-def welcome():
-    print("newScreeen")
+#some greate methods
+
+def click():
+    print("Click")
+
